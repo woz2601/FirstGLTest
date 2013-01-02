@@ -10,12 +10,12 @@
     <file path="$PROJECT_DIR$/.idea/compiler.xml" changelist="7002c850-3b42-4a21-b28a-3cfa76f9b2f1" time="1357105196496" ignored="false" />
     <file path="$PROJECT_DIR$/.idea/workspace.xml" changelist="7002c850-3b42-4a21-b28a-3cfa76f9b2f1" time="1357105232320" ignored="false" />
     <file path="$PROJECT_DIR$/../CameraTest/.idea/workspace.xml" changelist="7002c850-3b42-4a21-b28a-3cfa76f9b2f1" time="1357105216528" ignored="false" />
-    <file path="/WozGLSurfaceView.java" changelist="7002c850-3b42-4a21-b28a-3cfa76f9b2f1" time="1357106473756" ignored="false" />
+    <file path="/WozGLSurfaceView.java" changelist="7002c850-3b42-4a21-b28a-3cfa76f9b2f1" time="1357168254221" ignored="false" />
     <file path="/a.java" changelist="7002c850-3b42-4a21-b28a-3cfa76f9b2f1" time="1357105472074" ignored="false" />
     <file path="/File Header.txt.ft" changelist="7002c850-3b42-4a21-b28a-3cfa76f9b2f1" time="1357105558702" ignored="false" />
     <file path="/AndroidManifest.xml" changelist="7002c850-3b42-4a21-b28a-3cfa76f9b2f1" time="1357107138651" ignored="false" />
     <file path="/WozRenderer.java" changelist="7002c850-3b42-4a21-b28a-3cfa76f9b2f1" time="1357119338916" ignored="false" />
-    <file path="/Main.java" changelist="7002c850-3b42-4a21-b28a-3cfa76f9b2f1" time="1357167366442" ignored="false" />
+    <file path="/Main.java" changelist="7002c850-3b42-4a21-b28a-3cfa76f9b2f1" time="1357168226706" ignored="false" />
     <file path="$PROJECT_DIR$/gen/com/woz/FirstGLTest/BuildConfig.java" changelist="7002c850-3b42-4a21-b28a-3cfa76f9b2f1" time="1357114645955" ignored="false" />
     <file path="$PROJECT_DIR$/gen/com/woz/FirstGLTest/Manifest.java" changelist="7002c850-3b42-4a21-b28a-3cfa76f9b2f1" time="1357114645955" ignored="false" />
     <file path="$PROJECT_DIR$/gen/com/woz/FirstGLTest/R.java" changelist="7002c850-3b42-4a21-b28a-3cfa76f9b2f1" time="1357114645955" ignored="false" />
@@ -27,7 +27,8 @@
     <file path="$PROJECT_DIR$/../OpenGLBasic/src/com/woz/openglbasic/Main.java" changelist="7002c850-3b42-4a21-b28a-3cfa76f9b2f1" time="1357165405478" ignored="false" />
     <file path="$PROJECT_DIR$/../OpenGLBasic/res/layout/main.xml" changelist="7002c850-3b42-4a21-b28a-3cfa76f9b2f1" time="1357165405478" ignored="false" />
     <file path="$PROJECT_DIR$/../OpenGLBasic/build.xml" changelist="7002c850-3b42-4a21-b28a-3cfa76f9b2f1" time="1357165405478" ignored="false" />
-    <file path="$PROJECT_DIR$/../OpenGLBasic/src/com/example/android/opengl/MyGLRenderer.java" changelist="7002c850-3b42-4a21-b28a-3cfa76f9b2f1" time="1357165542688" ignored="false" />
+    <file path="$PROJECT_DIR$/../OpenGLBasic/src/com/example/android/opengl/MyGLRenderer.java" changelist="7002c850-3b42-4a21-b28a-3cfa76f9b2f1" time="1357168445239" ignored="false" />
+    <file path="/MyGLRenderer.java" changelist="7002c850-3b42-4a21-b28a-3cfa76f9b2f1" time="1357168444231" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -90,7 +91,7 @@
       <file leaf-file-name="WozGLSurfaceView.java" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/woz/FirstGLTest/WozGLSurfaceView.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="13" column="23" selection-start="259" selection-end="259" vertical-scroll-proportion="0.0">
+            <state line="21" column="0" selection-start="388" selection-end="388" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -116,10 +117,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="WozRenderer.java" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="WozRenderer.java" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/com/woz/FirstGLTest/WozRenderer.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="28" column="41" selection-start="707" selection-end="707" vertical-scroll-proportion="0.0">
+            <state line="46" column="22" selection-start="1092" selection-end="1092" vertical-scroll-proportion="0.7127496">
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -127,11 +128,13 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Main.java" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="Main.java" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/woz/FirstGLTest/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="24" column="24" selection-start="499" selection-end="499" vertical-scroll-proportion="0.4284078">
-              <folding />
+            <state line="14" column="0" selection-start="344" selection-end="344" vertical-scroll-proportion="0.0">
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -156,11 +159,11 @@
     <option name="changedFiles">
       <list>
         <option value="$PROJECT_DIR$/AndroidManifest.xml" />
-        <option value="$PROJECT_DIR$/src/com/woz/FirstGLTest/WozGLSurfaceView.java" />
         <option value="$PROJECT_DIR$/src/com/woz/FirstGLTest/shapes/Square.java" />
+        <option value="$PROJECT_DIR$/src/com/woz/FirstGLTest/shapes/Triangle.java" />
+        <option value="$PROJECT_DIR$/src/com/woz/FirstGLTest/WozGLSurfaceView.java" />
         <option value="$PROJECT_DIR$/src/com/woz/FirstGLTest/Main.java" />
         <option value="$PROJECT_DIR$/src/com/woz/FirstGLTest/WozRenderer.java" />
-        <option value="$PROJECT_DIR$/src/com/woz/FirstGLTest/shapes/Triangle.java" />
       </list>
     </option>
   </component>
@@ -469,12 +472,12 @@
       <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32925472" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Android" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32925472" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="13" side_tool="false" content_ui="tabs" />
-      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.113127" sideWeight="0.32703003" order="3" side_tool="true" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.113127" sideWeight="0.2458287" order="3" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.113127" sideWeight="0.66518354" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.35150167" sideWeight="0.49786553" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.113127" sideWeight="0.49944383" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24694104" sideWeight="0.49786553" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32977587" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="9" side_tool="false" content_ui="combo" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
@@ -580,7 +583,9 @@
     <entry file="file://$PROJECT_DIR$/src/com/woz/FirstGLTest/Main.java">
       <provider selected="true" editor-type-id="text-editor">
         <state line="13" column="43" selection-start="335" selection-end="335" vertical-scroll-proportion="0.0">
-          <folding />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -630,24 +635,26 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/woz/FirstGLTest/WozGLSurfaceView.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="13" column="23" selection-start="259" selection-end="259" vertical-scroll-proportion="0.0">
+        <state line="21" column="0" selection-start="388" selection-end="388" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/woz/FirstGLTest/WozRenderer.java">
+    <entry file="file://$PROJECT_DIR$/src/com/woz/FirstGLTest/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="28" column="41" selection-start="707" selection-end="707" vertical-scroll-proportion="0.0">
+        <state line="14" column="0" selection-start="344" selection-end="344" vertical-scroll-proportion="0.0">
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/woz/FirstGLTest/Main.java">
+    <entry file="file://$PROJECT_DIR$/src/com/woz/FirstGLTest/WozRenderer.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="24" column="24" selection-start="499" selection-end="499" vertical-scroll-proportion="0.4284078">
-          <folding />
+        <state line="46" column="22" selection-start="1092" selection-end="1092" vertical-scroll-proportion="0.7127496">
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

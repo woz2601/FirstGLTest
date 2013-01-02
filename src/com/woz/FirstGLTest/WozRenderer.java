@@ -12,20 +12,28 @@ public class WozRenderer implements Renderer {
 	private Triangle _triangle;
 
 	@Override
-	public void onSurfaceCreated(GL10 gl10, EGLConfig eglConfig) {
-		GLES20.glClearColor(0.2f, 0.2f, 0.2f, 1f);
+	public void onSurfaceCreated(GL10 unused, EGLConfig config) {
+
+		// Set the background frame color
+		GLES20.glClearColor(0.0f, 0.0f, 0.0f, 1.0f);
 
 		_triangle = new Triangle();
 	}
 
 	@Override
-	public void onDrawFrame(GL10 gl10) {
+	public void onDrawFrame(GL10 unused) {
+
+		// Draw background color
 		GLES20.glClear(GLES20.GL_COLOR_BUFFER_BIT);
+
+		// Draw triangle
 		_triangle.draw();
 	}
 
 	@Override
-	public void onSurfaceChanged(GL10 gl10, int width, int height) {
+	public void onSurfaceChanged(GL10 unused, int width, int height) {
+		// Adjust the viewport based on geometry changes,
+		// such as screen rotation
 		GLES20.glViewport(0, 0, width, height);
 	}
 
@@ -34,8 +42,10 @@ public class WozRenderer implements Renderer {
 		int shader = GLES20.glCreateShader(type);
 
 		GLES20.glShaderSource(shader, shaderCode);
-		GLES20.glCreateShader(shader);
+		GLES20.glCompileShader(shader);
 
 		return shader;
+
+
 	}
 }
